@@ -13,9 +13,11 @@
   },
   "dependencies": {
     "@assistant-ui/react": "^0.12.19",
+    "@tanstack/react-query": "^5.90.21",
     "next": "16.1.7",
     "react": "19.2.3",
-    "react-dom": "19.2.3"
+    "react-dom": "19.2.3",
+    "zustand": "^5.0.12"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
